@@ -53,10 +53,10 @@
 
 
 ## Output:
+![](./001.png)
 
-
-### Name:
-### Register Number: 
+### Name: Arshatha P
+### Register Number: 212222230012
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
